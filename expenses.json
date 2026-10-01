@@ -1,10 +1,34 @@
 [
     {
-        "id": "397c6f01-2ce6-46b7-9bd8-f30f6228494d",
-        "title": "ff",
-        "category": "dd",
-        "amount": 11111.0,
-        "date": "2026-09-28",
-        "description": "ss"
+        "id": "89063015-1ae7-4793-ad21-b54c423082aa",
+        "title": "Bus Fare",
+        "category": "Transport",
+        "amount": 450.0,
+        "date": "2026-10-01",
+        "description": "University Transportation"
+    },
+    {
+        "id": "895043b8-faeb-42bb-ad1d-90c2361e169f",
+        "title": "Electricity Bill",
+        "category": "Bills",
+        "amount": 6350.0,
+        "date": "2026-10-01",
+        "description": "Monthly electricity bills"
+    },
+    {
+        "id": "0eab8ca1-2b44-4fb2-a28d-996c89b3bee5",
+        "title": "Online Course",
+        "category": "Education",
+        "amount": 3000.0,
+        "date": "2026-10-01",
+        "description": "Programming Course"
+    },
+    {
+        "id": "9dce06de-99c9-4fd3-9645-04e88e9d60c6",
+        "title": "Grocery Shopping",
+        "category": "Food",
+        "amount": 2850.0,
+        "date": "2026-10-01",
+        "description": "Monthly groceries and snacks"
     }
 ]
